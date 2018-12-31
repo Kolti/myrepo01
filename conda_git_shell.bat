@@ -1,0 +1,1 @@
+%windir%\System32\cmd.exe "/K" A:\Programme\Miniconda\Scripts\activate.bat A:\Programme\Miniconda
